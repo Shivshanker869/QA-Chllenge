@@ -1,2 +1,2 @@
-# QA-Chllenge
-This is My project to given by Masai School 
+# nopcommerce-manual-testing
+Manual testing project for nopCommerce Admin Demo website with professional QA documentation including Test Plan, Test Cases, Bug Report, and Test Summary Report.
